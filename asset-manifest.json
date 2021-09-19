@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.4af76010.chunk.css",
-    "main.js": "/personal-website/static/js/main.793ae09e.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.793ae09e.chunk.js.map",
+    "main.css": "/personal-website/static/css/main.bacfb809.chunk.css",
+    "main.js": "/personal-website/static/js/main.6e4233a9.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.6e4233a9.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.715c39b8.js",
     "runtime-main.js.map": "/personal-website/static/js/runtime-main.715c39b8.js.map",
-    "static/js/2.33e48a03.chunk.js": "/personal-website/static/js/2.33e48a03.chunk.js",
-    "static/js/2.33e48a03.chunk.js.map": "/personal-website/static/js/2.33e48a03.chunk.js.map",
+    "static/js/2.091deb6d.chunk.js": "/personal-website/static/js/2.091deb6d.chunk.js",
+    "static/js/2.091deb6d.chunk.js.map": "/personal-website/static/js/2.091deb6d.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "static/css/main.4af76010.chunk.css.map": "/personal-website/static/css/main.4af76010.chunk.css.map",
-    "static/js/2.33e48a03.chunk.js.LICENSE.txt": "/personal-website/static/js/2.33e48a03.chunk.js.LICENSE.txt"
+    "static/css/main.bacfb809.chunk.css.map": "/personal-website/static/css/main.bacfb809.chunk.css.map",
+    "static/js/2.091deb6d.chunk.js.LICENSE.txt": "/personal-website/static/js/2.091deb6d.chunk.js.LICENSE.txt",
+    "static/media/github-content.21c0410d.svg": "/personal-website/static/media/github-content.21c0410d.svg",
+    "static/media/github-header.f6a24a31.svg": "/personal-website/static/media/github-header.f6a24a31.svg",
+    "static/media/linkedin-content.84608932.svg": "/personal-website/static/media/linkedin-content.84608932.svg",
+    "static/media/linkedin-header.827eb4d7.svg": "/personal-website/static/media/linkedin-header.827eb4d7.svg",
+    "static/media/logo-header.682b3d89.svg": "/personal-website/static/media/logo-header.682b3d89.svg",
+    "static/media/mail-header.2ee250d3.svg": "/personal-website/static/media/mail-header.2ee250d3.svg",
+    "static/media/resume-content.3787cde9.svg": "/personal-website/static/media/resume-content.3787cde9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.715c39b8.js",
-    "static/js/2.33e48a03.chunk.js",
-    "static/css/main.4af76010.chunk.css",
-    "static/js/main.793ae09e.chunk.js"
+    "static/js/2.091deb6d.chunk.js",
+    "static/css/main.bacfb809.chunk.css",
+    "static/js/main.6e4233a9.chunk.js"
   ]
 }
