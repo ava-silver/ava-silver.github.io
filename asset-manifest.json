@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.fda36b8f.chunk.css",
-    "main.js": "/static/js/main.c9ed84d9.chunk.js",
-    "main.js.map": "/static/js/main.c9ed84d9.chunk.js.map",
+    "main.css": "/static/css/main.3134c85e.chunk.css",
+    "main.js": "/static/js/main.da19d5b7.chunk.js",
+    "main.js.map": "/static/js/main.da19d5b7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d923c3a5.js",
     "runtime-main.js.map": "/static/js/runtime-main.d923c3a5.js.map",
     "static/js/2.091deb6d.chunk.js": "/static/js/2.091deb6d.chunk.js",
     "static/js/2.091deb6d.chunk.js.map": "/static/js/2.091deb6d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.fda36b8f.chunk.css.map": "/static/css/main.fda36b8f.chunk.css.map",
+    "static/css/main.3134c85e.chunk.css.map": "/static/css/main.3134c85e.chunk.css.map",
     "static/js/2.091deb6d.chunk.js.LICENSE.txt": "/static/js/2.091deb6d.chunk.js.LICENSE.txt",
-    "static/media/github-content.21c0410d.svg": "/static/media/github-content.21c0410d.svg",
-    "static/media/github-header.f6a24a31.svg": "/static/media/github-header.f6a24a31.svg",
-    "static/media/linkedin-content.84608932.svg": "/static/media/linkedin-content.84608932.svg",
-    "static/media/linkedin-header.827eb4d7.svg": "/static/media/linkedin-header.827eb4d7.svg",
-    "static/media/logo-header.682b3d89.svg": "/static/media/logo-header.682b3d89.svg",
-    "static/media/mail-header.2ee250d3.svg": "/static/media/mail-header.2ee250d3.svg",
-    "static/media/resume-content.3787cde9.svg": "/static/media/resume-content.3787cde9.svg"
+    "static/media/github-content.7a6556d8.svg": "/static/media/github-content.7a6556d8.svg",
+    "static/media/github-header.6629319e.svg": "/static/media/github-header.6629319e.svg",
+    "static/media/linkedin-content.c330859b.svg": "/static/media/linkedin-content.c330859b.svg",
+    "static/media/linkedin-header.6d329e1a.svg": "/static/media/linkedin-header.6d329e1a.svg",
+    "static/media/logo-header.6afee4f7.svg": "/static/media/logo-header.6afee4f7.svg",
+    "static/media/mail-header.0f121a27.svg": "/static/media/mail-header.0f121a27.svg",
+    "static/media/resume-content.1c04466a.svg": "/static/media/resume-content.1c04466a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d923c3a5.js",
     "static/js/2.091deb6d.chunk.js",
-    "static/css/main.fda36b8f.chunk.css",
-    "static/js/main.c9ed84d9.chunk.js"
+    "static/css/main.3134c85e.chunk.css",
+    "static/js/main.da19d5b7.chunk.js"
   ]
 }

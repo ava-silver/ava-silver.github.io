@@ -1,1 +1,0 @@
-document.write("<script src=\"https://kit.fontawesome.com/96426fbd4f.js\" crossorigin=\"anonymous\"></script>");
